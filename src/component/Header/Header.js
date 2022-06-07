@@ -13,7 +13,7 @@ const Header = () => {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
                             <NavDropdown title="Join" id="basic-nav-dropdown" className="link-menu">
-                                <Link to="/signIn">SignIn</Link>
+                                <Link to="/signIn">Sign In</Link>
                                 <Link to="/signUp">Registration</Link>
                             </NavDropdown>
                         </Nav>
